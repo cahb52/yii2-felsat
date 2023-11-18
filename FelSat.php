@@ -5,7 +5,7 @@ namespace cahb52\fel;
 /**
  * This is just an example.
  */
-class AutoloadExample extends \yii\base\Widget
+class FelSat extends \yii\base\Widget
 {
     public function run()
     {

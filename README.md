@@ -28,4 +28,4 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \cahb52\fel\AutoloadExample::widget(); ?>```
+<?= \cahb52\fel\FelSat::widget(); ?>```
