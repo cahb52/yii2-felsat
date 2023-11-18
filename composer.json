@@ -1,0 +1,21 @@
+{
+    "name": "cahb52/yii2-felsat",
+    "description": "Genera un pdf al recibir el xml de la sat",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Carlos Augusto Hernández Barrientos",
+            "email": "cahb52@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "cahb52\\fel\\": ""
+        }
+    }
+}
