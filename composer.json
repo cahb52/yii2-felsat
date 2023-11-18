@@ -17,5 +17,11 @@
         "psr-4": {
             "cahb52\\fel\\": ""
         }
+    },
+    "repositories":[
+    {
+        "type": "git",
+        "url": "https://github.com/cahb52/yii2-felsat.git"
     }
+]
 }
